@@ -1,2 +1,2 @@
 # certifications
-education related
+education related.
